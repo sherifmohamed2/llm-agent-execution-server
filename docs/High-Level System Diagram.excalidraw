@@ -736,8 +736,8 @@
     {
       "type": "rectangle",
       "id": "app_bg",
-      "x": -529.8415780348578,
-      "y": -598,
+      "x": -529.3628654270995,
+      "y": -598.4787126077583,
       "width": 1820,
       "height": 810,
       "angle": 0,
@@ -754,13 +754,13 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1773246995476,
+      "updated": 1773249267099,
       "link": null,
       "locked": false,
       "index": "aL",
       "seed": 50,
-      "version": 2,
-      "versionNonce": 610103768,
+      "version": 3,
+      "versionNonce": 1132067664,
       "isDeleted": false
     },
     {
