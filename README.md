@@ -4,6 +4,7 @@ A production-grade AI Agent Execution Server built with FastAPI, featuring multi
 
 ## Table of Contents
 
+- [High-Level System Diagram](#high-level-system-diagram)
 - [Architecture](#architecture)
 - [Folder Structure](#folder-structure)
 - [Execution Flow](#execution-flow)
@@ -28,6 +29,16 @@ A production-grade AI Agent Execution Server built with FastAPI, featuring multi
   - **System design + end-to-end flow**: [docs/system_design.md](docs/system_design.md#0-end-to-end-request-flow-current)
   - **Advanced agent answers (Stage 3)**: [docs/advanced_agent_answers.md](docs/advanced_agent_answers.md)
   - **High-Level System Diagram (step1)**: [docs/High-Level System Diagram.excalidraw](docs/High-Level%20System%20Diagram.excalidraw)
+
+## High-Level System Diagram
+
+The diagram below shows the full system architecture across all layers — Client, API Gateway, Application, Domain, and Infrastructure — including data flow, security boundaries, and AWS deployment mapping.
+
+[![High-Level System Diagram](docs/high-level-system-diagram.png)](docs/High-Level%20System%20Diagram.excalidraw)
+
+> **Open the interactive diagram →** [docs/High-Level System Diagram.excalidraw](docs/High-Level%20System%20Diagram.excalidraw)
+
+---
 
 ## Architecture
 
