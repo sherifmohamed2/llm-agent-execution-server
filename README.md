@@ -30,6 +30,7 @@ A production-grade AI Agent Execution Server built with FastAPI, featuring multi
   - **Advanced agent answers (Stage 3)**: [docs/advanced_agent_answers.md](docs/advanced_agent_answers.md)
   - **High-Level System Diagram (step1)**: [docs/High-Level System Diagram.excalidraw](docs/High-Level%20System%20Diagram.excalidraw)
 
+---
 ## High-Level System Diagram
 
 The diagram below shows the full system architecture across all layers — Client, API Gateway, Application, Domain, and Infrastructure — including data flow, security boundaries, and AWS deployment mapping.
